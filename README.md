@@ -1,3 +1,9 @@
+html
+<p align="center">
+  <img src="./name<random>.gif" alt="banner" width="100%">
+</p>
+
+
 <h1>AI Engineer & DevOps Architect | Optimization, Automation & Beyond</h1>
 <p>Optimizing AI, Automating Workflows, Scaling Intelligence</p>
 <h2>🚀 Languages and Tools I Use</h2>
