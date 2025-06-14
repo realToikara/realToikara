@@ -5,9 +5,7 @@
 <h1>AI Engineer & DevOps Architect | Optimization, Automation & Beyond</h1>
 <p>I build, optimize, and break things—so the next solution is always smarter and faster.</p>
 <p>
-  I engineer intelligence into code, machines, and systems.<br>
-  From cloud to edge, I build automation that never settles for “just works.”<br>
-  Robotics fascinates me—where algorithms shape action and data meets reality.<br>
+  Robotics & AI fascinates me—where algorithms shape action and data meets reality.<br>
   Optimization isn’t a task, it’s a mindset: smarter, leaner, faster, always.<br>
   Every project is a chance to challenge what’s possible and deliver what’s next.
 </p>
