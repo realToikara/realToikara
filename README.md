@@ -1,6 +1,5 @@
-html
 <p align="center">
-  <img src="./name<random>.gif" alt="banner" width="100%">
+  <img src="./In_my_lab.gif" alt="banner" width="100%">
 </p>
 
 
