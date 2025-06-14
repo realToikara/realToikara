@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/realToikara/realToikara/blob/main/In_my_lab.gif" alt="banner" width="100%">
+  <img src="banner.gif" alt="banner" width="100%">
 </p>
-![mylivewallpapers-com-Lee-Punishi](https://github.com/realToikara/realToikara/blob/main/In_my_lab.gif)
-
 
 <h1>AI Engineer & DevOps Architect | Optimization, Automation & Beyond</h1>
 <p>Optimizing AI, Automating Workflows, Scaling Intelligence</p>
