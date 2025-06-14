@@ -1,12 +1,12 @@
 <p align="center">
   <img src="banner.gif" alt="banner" width="100%">
+<p>
+  I engineer intelligence into code, machines, and systems.<br>
+  From cloud to edge, I build automation that never settles for “just works.”<br>
+  Robotics fascinates me—where algorithms shape action and data meets reality.<br>
+  Optimization isn’t a task, it’s a mindset: smarter, leaner, faster, always.<br>
+  Every project is a chance to challenge what’s possible and deliver what’s next.
 </p>
-<h1>AI Engineer & DevOps Architect | Optimization, Automation & Beyond</h1>
-<p>I engineer intelligence into code, machines, and systems.
-From cloud to edge, I build automation that never settles for “just works.”
-Robotics fascinates me—where algorithms shape action and data meets reality.
-Optimization isn’t a task, it’s a mindset: smarter, leaner, faster, always.
-Every project is a chance to challenge what’s possible and deliver what’s next.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
