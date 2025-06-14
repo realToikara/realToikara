@@ -1,9 +1,8 @@
 <p align="center">
   <img src="banner.gif" alt="banner" width="100%">
 </p>
-
 <h1>AI Engineer & DevOps Architect | Optimization, Automation & Beyond</h1>
-<p>Optimizing AI, Automating Workflows, Scaling Intelligence</p>
+<p>I build, optimize, and break things—so the next solution is always smarter and faster.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
